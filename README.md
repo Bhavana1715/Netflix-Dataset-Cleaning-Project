@@ -13,11 +13,11 @@ In this project, I loaded, explored, cleaned, and exported a cleaned version of 
    🔹 Displayed data types of each column.  
    🔹 Used `.info()` to get detailed dataset information.  
    🔹 Summarized numerical columns with `.describe()`.  
-   Explored categorical columns:
+   Explored categorical columns:                
    🔹  Displayed unique values (limited to 20).
    🔹 Displayed value counts (top 10 most frequent).
 
-4. **🛠️ Data Cleaning**
+5. **🛠️ Data Cleaning**
    🔹  **Missing Value Handling:**
      - Filled missing director, cast, and country values with `'Unknown'`.
      - Smart-filled missing `date_added` based on whether the content was a Movie or a TV Show.
@@ -27,11 +27,11 @@ In this project, I loaded, explored, cleaned, and exported a cleaned version of 
    🔹  **🔄 Duplicate Rows:**
      - Identified and displayed any duplicate rows.
 
-5. **🧹 Data Type Correction**  
+6. **🧹 Data Type Correction**  
    🔹 Converted `date_added` to **datetime** format.  
    🔹 Converted `release_year` to **integer** type.
 
-6. **📦 Export the Cleaned Dataset**  
+7. **📦 Export the Cleaned Dataset**  
     🔹Saved the cleaned dataset as `netflix_cleaned.csv` for further analysis.
 
 ## **✨ Key Highlights**
@@ -43,7 +43,7 @@ In this project, I loaded, explored, cleaned, and exported a cleaned version of 
 ## **📚 Technologies Used**
 - **🐍 Python 3.x**
 - **📊 Pandas**
-- **💻 Google Colab / Jupyter Notebook**
+- **💻 Google Colab**
 
 ## **📎 Dataset Reference**
 - Netflix Movies and TV Shows Dataset (https://shorturl.at/qXJ8z)
