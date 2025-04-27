@@ -13,7 +13,8 @@ In this project, I loaded, explored, cleaned, and exported a cleaned version of 
    🔹 Displayed data types of each column.  
    🔹 Used `.info()` to get detailed dataset information.  
    🔹 Summarized numerical columns with `.describe()`.  
-   Explored categorical columns:                
+   Explored categorical columns:
+                 
    🔹  Displayed unique values (limited to 20).
    🔹 Displayed value counts (top 10 most frequent).
 
