@@ -20,7 +20,8 @@ In this project, I loaded, explored, cleaned, and exported a cleaned version of 
    🔹 Displayed value counts (top 10 most frequent).
 
 5. **🛠️ Data Cleaning**
-   🔹  **Missing Value Handling:**
+   
+   **🔹  Missing Value Handling:**
      - Filled missing director, cast, and country values with `'Unknown'`.
      - Smart-filled missing `date_added` based on whether the content was a Movie or a TV Show.
      - Filled missing `rating` values with `'Not Rated'`.
@@ -29,11 +30,11 @@ In this project, I loaded, explored, cleaned, and exported a cleaned version of 
    🔹  **🔄 Duplicate Rows:**
      - Identified and displayed any duplicate rows.
 
-6. **🧹 Data Type Correction**  
+7. **🧹 Data Type Correction**  
    🔹 Converted `date_added` to **datetime** format.  
    🔹 Converted `release_year` to **integer** type.
 
-7. **📦 Export the Cleaned Dataset**  
+8. **📦 Export the Cleaned Dataset**  
     🔹Saved the cleaned dataset as `netflix_cleaned.csv` for further analysis.
 
 ## **✨ Key Highlights**
