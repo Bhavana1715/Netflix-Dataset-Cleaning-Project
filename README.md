@@ -51,6 +51,9 @@ In this project, I loaded, explored, cleaned, and exported a cleaned version of 
 ## **📎 Dataset Reference**
 - Netflix Movies and TV Shows Dataset (https://shorturl.at/qXJ8z)
 
-🚀 **Thank you for checking this project!** Feel free to ⭐ star the repo if you find it useful!  
+🚀 **Thank you for checking this project!**
+
+Feel free to ⭐ star the repo if you find it useful! 
+
 🔥 **Let's connect on LinkedIn** and collaborate on more awesome projects!
  (https://shorturl.at/h38hd)
